@@ -1,0 +1,49 @@
+cd - change directory
+cd / vai para pasta raiz
+cd windows vai para pasta windows
+cd.. volta um nivel
+cls - clear screen
+cd W + tab autocompleta nome de pasta que ele encontrou no diretório
+mkdir - make directory
+silence on success - se o terminal não traz uma msg, é pq seu comendo deu certo
+echo o sistema repete o que vc diz
+echo hello > hello.txt o sistema vai checar se na pasta já existe este arquivo e, se não, vai cria-lo
+del deleta somente arquivo
+seta para cima navega no histórico de comandos
+rmdir remove directory
+
+
+git init
+git add
+git commit
+
+ls - lista diretório
+cd workspace/ - vai para pasta workspace
+ctrl L para limpar tela
+
+flags são usadas para modificar comandos
+ls -a lista incluso pastas ocultas, é uma flag
+cd .. volta um nível
+git config --global user.email "fraukleina@gmail.com"
+git config -- global user.name fraukleina
+
+git commit -m "commit inicial"
+git status - mostra se está untracked, unmodified, modified ou staged
+mv - mover
+mv batata.md ./receitas/
+
+echo > readme.md - git bash cria o arquivo readme.md
+git add nomearquivo
+git add * tudo que foi modificado dentro do diretório
+git add . idem acima
+git commit -m "mensagem" - tudo que estava no staged foi colocado no commit
+git remote -v lista os repositórios remotos que eu tenho cadastradas
+git push origin master - manda o branch master para o git hub
+
+arquivo .md - markdown linguagem formatada lllida pelo github
+readme.md - arquivo padrão para o github
+
+git pull origin master - para puxar um conteúdo do git hub, para poder continuar editando localmente
+git clone + paste do git hub - copia todo um conteúdo para sua máquina, para editar no git bash. (botão "code")
+
+www.mardownguide.org/basic-syntax

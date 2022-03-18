@@ -1,0 +1,16 @@
+código fonte						
+começar com linguagem estruturada, tipo C						
+						
+						
+assembly	l[ingua de baixo nível, no nível do hardware, linguagem de montagem, ou linguagem de máquina					
+decada 50: 	fortran, cobol,lisp - paradigma procedural					
+dec 60 e 70	C, prolog, ml - paradigmas atuais			C é paradigma estruturado		
+dec 90	linguagens de alto nível - java, python, ruby, C#, Javascript					
+2000	linguagens multiparadigmas (uso específico) - go, rust, dart, typescript					
+						
+						
+stackoverflow						
+						
+paradigma estruturado (C): dá ênfase à sequencia						
+paradigma orientado a objetos: dá enfasse à classe de objetos, conjunto de objetos diferentes - tenho um molde e consigo fazer diversas replicas deste molde. posso desenvolver métodos/operações específicos desta classe. 						
+	método é uma função atribuída a uma classe					
